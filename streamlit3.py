@@ -1,10 +1,8 @@
 import streamlit as st
 from streamlit_authenticator import Authenticate
 from streamlit_option_menu import option_menu
-import matplotlib.pyplot as plt
-import seaborn as sns
 import pandas as pd
-import numpy as np
+
 
 url = "streamlit3.csv"
 users = pd.read_csv(url)
