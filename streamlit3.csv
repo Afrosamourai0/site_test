@@ -1,0 +1,6 @@
+
+name,password,email,failed_login_attemps,logged_in,role
+utilisateur,modepass,test@gmail.com,0,False,"utilisateur"
+utilisateur2,modepass2,test@gmail.com,0,False,"utilisateur"
+utilisateur3,modepass3,test@gmail.com,0,False,"utilisateur"
+root,modepass,test@gmail.com,0,False,"radministrateur"
